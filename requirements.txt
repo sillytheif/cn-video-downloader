@@ -1,0 +1,4 @@
+customtkinter>=5.2.2,<6
+darkdetect>=0.8,<1
+packaging>=24
+yt-dlp>=2024.10.7

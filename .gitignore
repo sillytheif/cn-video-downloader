@@ -1,0 +1,13 @@
+.venv/
+.build-venv/
+.cache/
+__pycache__/
+*.pyc
+.pytest_cache/
+runtime/
+dist/
+build/
+*.spec
+test-output/
+codex-exec.log
+*.zip.part*
